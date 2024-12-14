@@ -1,6 +1,6 @@
 gebi=function(id) { return document.getElementById(id);};
 log=console.log.bind(window.console);
-
+1
 web={model:{},view:{},controller:{},};
 arrs='header,footer,hero,clients,about,stats,services,features,portofolio,pricing,faq,team,call,testimonial,posts,contact,single'.split(',');
 for (let i in arrs){ node=arrs[i];
@@ -28,8 +28,8 @@ id:'about',
 css:'col-1-3',
 data:[
 {id:1,nama:'BASIC',icon:'facebook'},
-{id:1,nama:'PRO',icon:'twitter'},
-{id:1,nama:'PERFORMANCE',icon:'whatsapp'},
+{id:1,nama:'PRO',icon:'x'},
+{id:1,nama:'PERFORMANCE',icon potho:'whatsapp'},
 
 ]
 },
