@@ -278,7 +278,7 @@ var {css,data}=web.model.about;
 
 out=`<div class="row center artikel">
 <div class="center">
-<b>About The easiest way <br>to build<b> websites online</b></b>
+<b>about dea <br>to build<b> websites online</b></b>
 <p class="section-sub-title">Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a <br> pharetra augue. Donec id elit non mi porta gravida at eget metus.</p>
 </div>
 `;
